@@ -1,1 +1,3 @@
 Hei, jeg ville bare si at Trym er en kul fyr.
+
+tester ut å lage egen branch. 
